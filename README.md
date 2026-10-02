@@ -12,6 +12,6 @@
 | [Auto Limma](https://github.com/0609x/Auto_Limma) | 基于 R / limma 的差异表达分析自动化流程。 |
 | [TCGA ACC Survival Analysis](https://github.com/0609x/TCGA-ACC-Survival-Analysis) | TCGA 肾上腺皮质癌临床数据清洗与生存分析流程。 |
 
-## 开源贡献
+## 合作项目
 
-- [劳动仲裁帮](https://github.com/2066513819/Labour-arbitration-help)：向原仓库提交的[演示文稿 PR #1](https://github.com/2066513819/Labour-arbitration-help/pull/1) 已合并。
+- [劳动仲裁帮](https://github.com/2066513819/Labour-arbitration-help)：与项目作者共同开发劳动仲裁智能辅助系统；我提交的[演示文稿 PR #1](https://github.com/2066513819/Labour-arbitration-help/pull/1) 已合并。
